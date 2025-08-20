@@ -1,4 +1,4 @@
-![logo](https://github.com/anasxzahid/anasxzahid/blob/main/Cover_Banner.png)
+![logo](https://github.com/anasxzahid/anasxzahid/blob/main/LinkedIn_Banner.png)
 <h1 align="center">Hi 👋, I'm Mohd Anas Zahid</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
 
