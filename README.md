@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasxzahid&label=Profile%20views&color=0e75b6&style=flat" alt="anasxzahid" /> </p>
 
-- 🔭 I'm Recently working as a Data Analyst Intern at Alpixn Technologies Pvt. Ltd. **A POC Project(BharatCart)**
+- 🔭 I was recently working as Data Analyst Intern at Alpixn Technologies Pvt. Ltd. **A POC Project(BharatCart)**
 
 - 🌱 I’m currently learning **Microsoft Power BI**
 
