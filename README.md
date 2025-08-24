@@ -1,7 +1,7 @@
 ![banner](https://github.com/anasxzahid/anasxzahid/blob/main/LinkedIn_Banner.png)
 
 # Hi 👋, I'm Mohd Anas Zahid  
-### 🚀 Aspiring Data Analyst | SQL • Python • Power BI • Machine Learning  
+### 🚀 Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning • Excel 
 
 <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -11,7 +11,7 @@
 - 🔭 Worked as **Data Analyst Intern @ Alpixn Technologies Pvt. Ltd.** (BharatCart POC Project)  
 - 📊 Skilled in **Data Analysis, Visualization, and Business Insights**  
 - 🌱 Currently learning **Advanced Power BI & Machine Learning**  
-- 👨‍💻 Portfolio Website: [Anaszahid2001.github.io](https://anaszahid2001.github.io)  
+- 👨‍💻 Portfolio Website: [Anaszahid2001.github.io](https://anaszahid2001.github.io/index.html)  
 - 📫 Reach me: **md.anaszahidd@gmail.com**  
 - ⚡ Fun fact: I love simplifying complex data into actionable insights!  
 
@@ -20,7 +20,7 @@
 ## 🛠️ Skills & Tools
 **Languages & Libraries:** Python, SQL, NumPy, Pandas, Matplotlib, Seaborn  
 **Visualization:** Power BI  
-**Other Tools:** MS Excel (Intermediate), Business Analysis  
+**Other Tools:** MS Excel, Business Analysis, Data Analysis 
 **Databases:** MS SQL Server  
 
 ---
