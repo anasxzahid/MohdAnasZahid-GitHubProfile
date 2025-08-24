@@ -20,7 +20,7 @@
 ## 🛠️ Skills & Tools
 **Languages & Libraries:** Python, SQL, NumPy, Pandas, Matplotlib, Seaborn  
 **Visualization:** Power BI  
-**Other Tools:** MS Excel, Business Analysis, Data Analysis
+**Other Tools:** MS Excel, Business Analysis
 **Databases:** MS SQL Server  
 
 ---
