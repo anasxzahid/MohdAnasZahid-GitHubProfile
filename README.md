@@ -8,7 +8,7 @@
 ---
 
 ## 💡 About Me
-- 🔭 Worked as **Data Analyst Intern @ Alpixn Technologies Pvt. Ltd.** (BharatCart POC Project)  
+- 🔭Recently worked as **Data Analyst Intern @ Alpixn Technologies Pvt. Ltd.** (BharatCart POC Project)  
 - 📊 Skilled in **Data Analysis, Visualization, and Business Insights**  
 - 🌱 Currently learning **Advanced Power BI & Machine Learning**  
 - 👨‍💻 Portfolio Website: [Anaszahid2001.github.io](https://anaszahid2001.github.io/index.html)  
