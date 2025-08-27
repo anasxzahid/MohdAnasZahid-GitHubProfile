@@ -44,14 +44,14 @@
 ### 🤖 Breast Cancer Prediction (ML Project)
 - Developed a predictive model using **Random Forest, SVM, and Neural Networks**.  
 - Achieved **97-98% accuracy** in classification.  
-- 🔗 [View Repository](https://github.com/anasxzahid/Face_Recognition_Attendance_System.git)  
+- 🔗 [View Repository](#)  
 
 ---
 
 ### 🎯 Face Recognition Attendance System
 - Designed a Python-based attendance system with **95%+ face detection accuracy**.  
 - Integrated with database for **real-time analytics & reporting**.  
-- 🔗 [View Repository](#)  
+- 🔗 [View Repository](https://github.com/anasxzahid/Face_Recognition_Attendance_System.git)  
 
 ---
 
