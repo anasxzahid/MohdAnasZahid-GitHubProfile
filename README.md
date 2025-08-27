@@ -71,7 +71,7 @@
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasxzahid&" alt="anasxzahid" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anasxzahid&theme=radical" alt="anasxzahid" />
 </p>
 
 ---
