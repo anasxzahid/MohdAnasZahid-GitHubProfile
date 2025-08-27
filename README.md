@@ -44,7 +44,7 @@
 ### 🤖 Breast Cancer Prediction (ML Project)
 - Developed a predictive model using **Random Forest, SVM, and Neural Networks**.  
 - Achieved **97-98% accuracy** in classification.  
-- 🔗 [View Repository](#)  
+- 🔗 [View Repository](https://github.com/anasxzahid/Face_Recognition_Attendance_System.git)  
 
 ---
 
